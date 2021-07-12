@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning UX/UI.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with UI design.
-- 📫 How to reach me: ...
+<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: More than half of my day goes sitting on the chair in front of my Lappy 💻.
 
