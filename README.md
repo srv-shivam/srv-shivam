@@ -27,6 +27,6 @@
 
 ## :trophy: My Github Stats:
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=srv-shivam&&show_icons=true&title_color=EDAD0D&icon_color=FFDF00&text_color=FFDF00&bg_color=FF000000" width="auto" height ="150">
-<img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srv-shivam&hide=php&theme=tokyonight" width="auto" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=srv-shivam&&show_icons=true&title_color=EDAD0D&icon_color=FFDF00&text_color=FFDF00&bg_color=FF000000" width="auto" height ="auto">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=srv-shivam&hide=php&theme=tokyonight" width="auto" height="200">
 </p>
