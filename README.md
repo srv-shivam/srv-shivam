@@ -1,6 +1,5 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">, I'm Shivam Srivastava</h2>
-
-----------------------------------------------------------------------------------------------------------------------------------
+<img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
 
 <h3 align="center">A passionate Android App Developer.</h3>
 
@@ -30,3 +29,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=srv-shivam&&show_icons=true&title_color=EDAD0D&icon_color=FFDF00&text_color=FFDF00&bg_color=FF000000" width="auto" height ="auto">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=srv-shivam&hide=php&theme=tokyonight" width="auto" height="200">
 </p>
+<img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
