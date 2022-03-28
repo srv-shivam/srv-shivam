@@ -45,6 +45,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srv-shivam&&theme=tokyonight" alt="srv-shivam" /></p>
 
-[![srv-shivam's github activity graph](https://activity-graph.herokuapp.com/graph?username=srv-shivam&theme=react-dark)](https://github.com/srv-shivam/github-readme-activity-graph)
-
 <img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto"></p>
