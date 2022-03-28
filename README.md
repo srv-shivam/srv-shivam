@@ -39,9 +39,9 @@
 
 ## :trophy: My Github Stats:
   
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=srv-shivam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="srv-shivam" /></p>
+<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=srv-shivam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="srv-shivam" /></p>
 
-<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=srv-shivam&show_icons=true&locale=en&theme=tokyonight" alt="srv-shivam" /></p>
+<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=srv-shivam&show_icons=true&locale=en&theme=tokyonight" alt="srv-shivam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srv-shivam&&theme=tokyonight" alt="srv-shivam" /></p>
 
