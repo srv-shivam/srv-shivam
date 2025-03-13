@@ -1,48 +1,47 @@
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">, I'm Shivam Srivastava</h2>
-<img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">, I'm Shivam Srivastava</h1>
 
-<h3 align="center">A passionate Android App Developer.</h3>
+<img src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=srv-shivam&label=Profile%20views&color=0e75b6&style=flat" alt="https://www.linkedin.com/in/shivam-srivastava-77546b193/" /> </p>
+<h3 align="center">A Passionate Software Engineer | Java Backend Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/srv-shivam-codes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:shivam.srivastava.22work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/srv-shivam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 👨‍💻 About Me:
+- 🚀 I’m currently working as a **Software Engineer - I at MoveInSync**.
+- 🔥 Passionate about **Java Backend Development, Microservices, and System Design**.
+- 🌍 Exploring **Cloud Technologies (AWS, Kubernetes)**.
+- 💡 Always learning and contributing to **open-source projects**.
+- ✉️ Reach me at: **shivam.srivastava.22work@gmail.com**.
+
+---
+
+### 🛠 Tech Stack & Tools:
 <p align="left">
-<a href="https://www.linkedin.com/in/srv-shivam-codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-srivastava-77546b193" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/srvshivam22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srvshivam22" height="30" width="40" /></a> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+---
 
-----------------------------------------------------------------------------------------------------------------------------------
-
-- 🔭 I’m currently working on Android Development.
-
-- 🌱 I’m currently learning UX/UI.
-
-- 👯 I’m looking to collaborate on open source.
-
-- ✉️ Mail me at: **shivamsrivastava222001@gmail.com**
-
-- 🤔 I’m looking for help with UI design.
-
-- 😄 Pronouns: He/His
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-## 🧰 Languages and Tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank">
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
+### 📊 GitHub Stats:
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srv-shivam&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srv-shivam&show_icons=true&locale=en&theme=tokyonight" height="180"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srv-shivam&theme=tokyonight" height="180"/>
 </p>
-<br>
 
-## :trophy: My Github Stats:
-  
-<p><img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=srv-shivam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="srv-shivam" /></p>
+---
 
-<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=srv-shivam&show_icons=true&locale=en&theme=tokyonight" alt="srv-shivam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srv-shivam&&theme=tokyonight" alt="srv-shivam" /></p>
-
-<img  src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto"></p>
+<img src="https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png" width="100%" height="auto">
